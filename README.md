@@ -1,4 +1,4 @@
-# csc384_pacman
+Intelligent Pacman!
 AI Pac-man tries to win the game on its own.
 
 Applied an array of AI techniques to playing Pac-Man such as informed state-space search, game tree
